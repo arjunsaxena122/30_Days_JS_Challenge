@@ -30,6 +30,7 @@ const arr=["Mango","Orange","Apple"]
 
 console.log("Type of the Array:- ",typeof(arr))
 
+
 // Task Five:
 
 str = "Arjun"
