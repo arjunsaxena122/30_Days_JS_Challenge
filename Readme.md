@@ -1,4 +1,5 @@
 # 30-Days-JS-Challenge
+
 Welcome to the 30 Days of JavaScript Challenge! 🚀
 
 Are you ready to embark on a journey to master JavaScript? Whether you're a complete beginner or looking to strengthen your existing knowledge, this challenge is designed to provide a structured and engaging way to learn the fundamentals and practical applications of JavaScript.
@@ -21,11 +22,11 @@ Each day, we'll focus on a specific JavaScript topic. Here's the general outline
 5. Review and Reflect: Take time to solidify your understanding by summarizing key takeaways and identifying areas for improvement.
 
 # Topics Covered
-  Throughout this challenge, we'll cover a wide range of JavaScript topics, including:
-  
-  • Variable and Data types
-  • Operator
 
-  
+Throughout this challenge, we'll cover a wide range of JavaScript topics, including:
 
-  Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
+1. Variable and Data types
+
+2. Operator
+
+Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
