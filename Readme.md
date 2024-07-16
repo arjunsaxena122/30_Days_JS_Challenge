@@ -31,4 +31,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 3. Control Statement.
 
+4. Loops.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
