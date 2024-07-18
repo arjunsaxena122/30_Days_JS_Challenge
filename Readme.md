@@ -35,4 +35,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 5. Functions.
 
+6. Arrays.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
