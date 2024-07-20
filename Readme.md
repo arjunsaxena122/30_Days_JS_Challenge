@@ -39,4 +39,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 7. Objects.
 
+8. ES6+Features.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
