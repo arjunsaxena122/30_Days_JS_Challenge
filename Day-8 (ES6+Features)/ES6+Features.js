@@ -91,15 +91,16 @@ console.log(`default Parameter without the second parameter is: ${defaultParamet
 
 // Task Eight:-
 
+let channelName ="Chai aur Code"
+let createName = "Hitesh Chaudhary Sir"
+let channelSubscriber = "1 Million One day"
+
 const enhancedObject = {
-    channelName:{
-        firstOne:"Hitesh Chaudhary",
-        SecondOne:"Chai aur Code",
-    },
-    createName:"Hitesh Chaudhary Sir",
-    channelSubscriber:"1 Million One day",
+    channelName,
+    createName,
+    channelSubscriber,
     greeting: function(){
-        return "Hello Sir"
+        return this.createName
     }
 }
 
@@ -108,9 +109,6 @@ console.log(enhancedObject.greeting())
 
 // Task Nine:-
 
-let channelName = "Chai aur Code"
-let createName = "Hitesh Chaudhary Sir"
-let channelSubscriber = "1 Million One day"
 
 const computedValues = {
     channelName,
