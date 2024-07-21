@@ -41,4 +41,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 8. ES6+Features.
 
+9. DOM Manipulation
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
