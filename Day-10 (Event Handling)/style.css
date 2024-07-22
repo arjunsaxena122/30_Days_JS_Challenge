@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.change-Para,.changeBgColor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    border: 2px solid black;
+    padding: 40px;
+}
+
+.change-btn, .submitForm button{
+    width: 100px;
+    height: 40px;
+    margin: 12px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.visible{
+    display: none;
+}
+
+.keydownText, .keyupText, .submitForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+}
+
+.keydownText input , .keyupText input, .submitForm input{
+    padding: 12px;
+    outline: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
