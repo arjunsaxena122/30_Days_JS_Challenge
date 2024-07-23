@@ -47,10 +47,23 @@
     margin: 12px;
 }
 
-.keydownText input , .keyupText input, .submitForm input{
+.keydownText input , .keyupText input, .submitForm input, #selectChange{
     padding: 12px;
     outline: none;
     font-size: 20px;
     margin-bottom: 20px;
 }
 
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.list-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    cursor: pointer;
+}

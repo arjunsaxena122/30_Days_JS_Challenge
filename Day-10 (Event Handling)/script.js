@@ -53,20 +53,46 @@ keyupInput.addEventListener('keyup',(event)=>{
 
 // Task Seven:-
 
-// let submitForm = document.querySelector('.submitForm')
-// let submitInput = document.querySelector('.submitForm input')
-// let submitButton = document.querySelector('.submitForm button')
+let submitForm = document.querySelector('.submitForm')
+let username = document.getElementById('username');
+let fullName = document.getElementById('fullName');
+let phone = document.getElementById('phone');
 
-// submitForm.addEventListener('submit',(event)=>{
-//     event.preventDefault()
-//     console.log(event.target.value)
-// })
+submitForm.addEventListener('submit',(event)=>{
+    event.preventDefault()
+    console.log(username.value)
+    console.log(fullName.value)
+    console.log(phone.value)
+
+})
 
 // Task Eight:-
 
+let selectOption = document.querySelector('#selectChange')
+let changeContent = document.querySelector('.changeContent')
+selectOption.addEventListener('change',(event)=>{
+    let insideEvent = event.target.value
+    changeContent.textContent = `You select the ${insideEvent} country`
+})
 
 
 // Event Delegation:-
 
+let listContainer = document.querySelector('.list-container');
 // Task Nine:-
 
+
+// listContainer.addEventListener('click',(event)=>{
+//         console.log(event.target.textContent)
+// },false)
+
+
+// Task Ten:-
+
+listContainer.addEventListener('click',()=>{
+    let addList = document.createElement('li');
+    let textNode = document.createTextNode("This new list added dynamically in this list");
+    addList.append(textNode);
+    listContainer.append(addList)
+    
+},false)

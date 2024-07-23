@@ -10,10 +10,11 @@
     <div class="container">
         <div class="change-Para">
             <h1>Task One</h1>
-            <p id="changeText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dolorum quidem cupiditate aliquam minima itaque maxime enim libero error, iste voluptates maiores reiciendis sit ipsum aut voluptatibus. Quod repellat animi neque culpa?</p>
+           <p id="changeText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dolorum quidem cupiditate aliquam minima itaque maxime enim libero error, iste voluptates maiores reiciendis sit ipsum aut voluptatibus. Quod repellat animi neque culpa?</p>
             <div><Button class="change-btn">Click Me!</Button></div>
         </div>
 
+        <h2>Task Two (Double Click)</h2>
         <div class="img-container visible">
             <h2>Task Two</h2>
             <img src="https://images.pexels.com/photos/27200209/pexels-photo-27200209/free-photo-of-a-street-with-a-tree-in-bloom-and-people-walking.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Random Image" width="300px" height="300px">
@@ -21,7 +22,7 @@
 
         <div class="changeBgColor">
             <h2>Task Three</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis odit dolore asperiores praesentium! Laborum quos, exercitationem quaerat, eligendi architecto libero, dolor ad debitis eos mollitia temporibus! Vel cumque nihil minima fuga impedit.</p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis odit dolore asperiores praesentium! Laborum quos, exercitationem quaerat, eligendi architecto libero, dolor ad debitis eos mollitia temporibus! Vel cumque nihil minima fuga impedit.<
         </div>
 
         <div class="keydownText">
@@ -36,11 +37,39 @@
 
         <form class="submitForm">
             <h2>Task Seven</h2>
-            <input type="text"placeholder="Enter Data">
-            <button>submit</button>
+            <label for="username"><input type="username" name="username" id="username" placeholder="Enter username">
+            </label>
+            <label for="fullName"><input type="fullName" name="fullName" id="fullName" placeholder="Enter fullName">
+            </label>
+            <label for="phone"><input type="number" name="phone" id="phone" placeholder="Enter phone">
+            </label>
+            <button type="submit">submit</button>
         </form>
 
+        <h2>Task Eight</h2>
+        <form class="submitForm">
+            <label for="selectChange"><h2>Select the Country</h2></label>
+            <select id="selectChange">
+                <option value="" disabled selected>Select Option</option>
+                <option value="India">India</option>
+                <option value="Australia">Australia</option>
+                <option value="Mexico">Mexico</option>
+            </select>
+            <p class="changeContent"></p>
+        </form>
+
+
+        <h2>Task Nine</h2>
+        <ul class="list-container">
+            <li id="listOne"> list One Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi maxime id saepe vero. Quidem inventore culpa maiores molestias suscipit officia porro quod impedit.</li>
+            <li id="listTwo"> list two Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi maxime id saepe vero. Quidem inventore culpa maiores molestias suscipit officia porro quod impedit.</li>
+            <li id="listThree"> list three Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi maxime id saepe vero. Quidem inventore culpa maiores molestias suscipit officia porro quod impedit.</li>
+            <li id="listFour"> list four Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi maxime id saepe vero. Quidem inventore culpa maiores molestias suscipit officia porro quod impedit.</li>
+        </ul>
+
     </div>
+
+    
 
     <script src="script.js"></script>
 </body>
