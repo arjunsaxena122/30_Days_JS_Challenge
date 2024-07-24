@@ -45,4 +45,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 10. Event Handling.
 
+11. Promise and Async/Await
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
