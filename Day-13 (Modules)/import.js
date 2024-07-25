@@ -78,9 +78,3 @@ try {
     console.log(error)
 }
 
-
-// Task Eight:-
-
-import bundler from './bundler.js'
-console.log(bundler.printConsole())
-console.log(bundler.fiveTable())

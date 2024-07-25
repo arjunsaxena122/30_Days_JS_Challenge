@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(`Namaste Sir/Mam ${"Arjun Saxena"}`),console.log("demo"),console.log(3+4)})();
