@@ -53,4 +53,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 14. Classes.
 
+15. Closures.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
