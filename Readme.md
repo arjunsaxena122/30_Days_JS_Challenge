@@ -55,4 +55,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 15. Closures.
 
+16. Recursion.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
