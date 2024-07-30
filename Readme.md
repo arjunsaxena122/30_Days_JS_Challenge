@@ -59,4 +59,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 17. Data Structures.
 
+18. Algorithm.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
