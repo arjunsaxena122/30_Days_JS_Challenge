@@ -65,4 +65,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 20. Local Storage and Session Storage.
 
+21. Leet Code Easy.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
