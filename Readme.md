@@ -69,4 +69,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 22. Leet Code Medium.
 
+23. Leet Code Hard.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
