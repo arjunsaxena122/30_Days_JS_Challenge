@@ -71,4 +71,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 23. Leet Code Hard.
 
+24. Weather App.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
