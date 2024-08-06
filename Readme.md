@@ -73,4 +73,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 24. Weather App.
 
+25. Movie Search App.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
