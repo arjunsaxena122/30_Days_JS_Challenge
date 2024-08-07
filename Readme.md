@@ -75,4 +75,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 25. Movie Search App.
 
+26. Chat Application.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
