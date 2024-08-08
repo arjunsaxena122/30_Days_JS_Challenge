@@ -77,4 +77,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 26. Chat Application.
 
+27. Task Management App.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
