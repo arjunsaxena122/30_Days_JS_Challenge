@@ -79,4 +79,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 27. Task Management App.
 
+28. E-Commerce Website.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
