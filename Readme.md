@@ -81,4 +81,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 28. E-Commerce Website.
 
+29. Social Media Dashboard.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
