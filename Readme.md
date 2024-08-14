@@ -83,4 +83,6 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 29. Social Media Dashboard.
 
+30. Final Social Media Dashboard with Full Features.
+
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
